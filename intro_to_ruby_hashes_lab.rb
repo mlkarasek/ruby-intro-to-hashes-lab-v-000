@@ -1,11 +1,10 @@
 def new_hash
 	hash = Hash.new
 	hash
-
 end
 
 def actor
-
+	actor = {"Dwayne The Rock Johnson"}
 end
 
 def monopoly
